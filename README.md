@@ -1,4 +1,4 @@
-# Pirater un compte Facebook en deux minutes!
+# Pirater un compte Facebook Gratuitement!
 
 Facebook est un site de réseautage social gratuit et populaire qui permet aux utilisateurs de se connecter et de partager facilement des messages avec leurs amis et les membres de leur famille. Étant donné que Facebook est une plate-forme de médias sociaux populaire, les cybercriminels s'intéressent de plus en plus au **piratage des comptes Facebook**. Cet article parlera des cinq vulnérabilités courantes et de ce que vous pouvez faire pour empêcher les cybercriminels de pirater un compte Facebook.
 ## Comment Pirater un compte Facebook :
