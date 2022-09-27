@@ -1,6 +1,6 @@
 # Pirater un compte Facebook en deux minutes!
 
-Facebook est un site de réseautage social gratuit et populaire qui permet aux utilisateurs de se connecter et de partager facilement des messages avec leurs amis et les membres de leur famille. Étant donné que Facebook est une plate-forme de médias sociaux populaire, les cybercriminels s'intéressent de plus en plus au piratage des comptes Facebook. Cet article parlera des cinq vulnérabilités courantes et de ce que vous pouvez faire pour empêcher les cybercriminels de pirater vos comptes Facebook.
+Facebook est un site de réseautage social gratuit et populaire qui permet aux utilisateurs de se connecter et de partager facilement des messages avec leurs amis et les membres de leur famille. Étant donné que Facebook est une plate-forme de médias sociaux populaire, les cybercriminels s'intéressent de plus en plus au **piratage des comptes Facebook**. Cet article parlera des cinq vulnérabilités courantes et de ce que vous pouvez faire pour empêcher les cybercriminels de pirater un compte Facebook.
 ## Comment Pirater un compte Facebook :
 
 >Mots de passe faibles, 
@@ -9,10 +9,10 @@ Facebook est un site de réseautage social gratuit et populaire qui permet aux u
 >Enregistreurs de frappe à distance, 
 >Déni de service (DoS).
 
-## 1. Pirater un compte Facebook: Mots de passe faibles
+## 1. Pirater un compte Facebook avec Pirater-un-compte-fb.com
 
 
-Les pirates peuvent facilement pirater des comptes Facebook en devinant ou en effectuant une attaque par force brute si le mot de passe est simple et couramment utilisé, comme un surnom, un numéro de téléphone, le nom d'un partenaire, un nom d'animal de compagnie, pour n'en nommer que quelques-uns. Une fois que le pirate a obtenu votre mot de passe, il a la possibilité de faire ce qu'il veut avec votre compte.
+Les pirates peuvent facilement **pirater un comptes Facebook** en devinant ou en effectuant une attaque par force brute si le mot de passe est simple et couramment utilisé, comme un surnom, un numéro de téléphone, le nom d'un partenaire, un nom d'animal de compagnie, pour n'en nommer que quelques-uns. Une fois que le pirate a obtenu votre mot de passe, il a la possibilité de faire ce qu'il veut avec votre compte.
 
 ### Comment se protéger contre les mots de passe faibles
 
@@ -26,7 +26,7 @@ Cela réduirait le risque que votre compte soit compromis. Un site habituel pour
 ![This is an image](https://www.vulgarisation-informatique.com/upload/images/2f7cf26e215e3335b6a0f776be5adb242073a7d6.png)
 
 
-Les e-mails de phishing sont un moyen facile pour les attaquants de pirater des comptes Facebook. Un attaquant peut créer de faux e-mails pour donner l'impression qu'ils ont été envoyés depuis Facebook. Voici quelques exemples de ce à quoi les e-mails peuvent ressembler :
+Les e-mails de phishing sont un moyen facile pour les attaquants de pirater un comptes Facebook. Un attaquant peut créer de faux e-mails pour donner l'impression qu'ils ont été envoyés depuis Facebook. Voici quelques exemples de ce à quoi les e-mails peuvent ressembler :
 > Notifications sur les demandes d'amis, les messages, les événements, les photos et les vidéos
 Fausses allégations selon lesquelles vous êtes allé à l'encontre de leurs normes communautaires 
 Avertissements indiquant que quelque chose va arriver à votre compte si vous ne le mettez pas à jour ou si vous n'effectuez pas une certaine action 
@@ -41,7 +41,7 @@ N'entrez pas d'informations personnelles à partir d'un écran contextuel (remar
 Gardez un œil sur les fautes d'orthographe dans le contenu de l'e-mail 
 
 ## 3. Pirater un compte Facebook avec (MITM)
-Une attaque d'homme au milieu peut se produire lorsqu'un utilisateur se connecte sans le savoir à une fausse connexion WiFi. Il s'agit d'une autre technique que les pirates peuvent utiliser pour pirater les comptes Facebook. La plupart du temps, vous ne pourrez peut-être pas dire quel WiFi est réel ou non car il est public et il est normal de vous amener à une page de connexion où il vous est demandé d'entrer votre e-mail et un mot de passe avant d'accéder à Internet. Encore une fois, à votre insu, l'attaquant a enregistré ces informations et peut tester ces identifiants de connexion sur d'autres plateformes de médias sociaux. 
+Une attaque d'homme au milieu peut se produire lorsqu'un utilisateur se connecte sans le savoir à une fausse connexion WiFi. Il s'agit d'une autre technique que les pirates peuvent utiliser pour comment pirater un comptes Facebook. La plupart du temps, vous ne pourrez peut-être pas dire quel WiFi est réel ou non car il est public et il est normal de vous amener à une page de connexion où il vous est demandé d'entrer votre e-mail et un mot de passe avant d'accéder à Internet. Encore une fois, à votre insu, l'attaquant a enregistré ces informations et peut tester ces identifiants de connexion sur d'autres plateformes de médias sociaux. 
 
 ### Comment se protéger contre l'homme au milieu des attaques 
 Vous ne devez jamais connecter votre appareil mobile ou votre ordinateur portable à un réseau WiFi public car ils ne sont pas sécurisés et constituent un moyen facile pour les pirates d'obtenir des informations. Si vous souhaitez vous connecter au WiFi public, je vous recommande d'utiliser un VPN pour vous assurer que votre connexion est sécurisée. 
@@ -49,7 +49,7 @@ Vous ne devez jamais connecter votre appareil mobile ou votre ordinateur portabl
 ![This is an image](https://media.lesechos.com/api/v1/images/view/5c0654e13e45465ec912ccbb/1280x720/021753931297-web.jpg)
 
 ## 4. Comment Pirater Facebook avec un Enregistreurs de frappe à distance
-Un pirate informatique doit d'abord accéder à votre appareil mobile ou à votre ordinateur portable pour installer un logiciel permettant d'enregistrer tout ce que vous tapez sur votre appareil. Une fois installé, tout ce qui est saisi (mot de passe, identifiants de connexion, informations bancaires, etc.) sera enregistré et pourra être consulté par le pirate. Il s'agit d'une technique cachée permettant à un attaquant de pirater des comptes Facebook. Par exemple, si un attaquant a d'une manière ou d'une autre piraté votre ordinateur portable et installé un logiciel d'enregistrement de frappe, tout ce que vous tapez sera enregistré pour l'attaquant. Non seulement vos informations d'identification Facebook seraient enregistrées, mais également vos informations d'identification bancaires, vos comptes de messagerie et tous les autres comptes que vous possédez. 
+Un pirate informatique doit d'abord accéder à votre appareil mobile ou à votre ordinateur portable pour installer un logiciel permettant d'enregistrer tout ce que vous tapez sur votre appareil. Une fois installé, tout ce qui est saisi (mot de passe, identifiants de connexion, informations bancaires, etc.) sera enregistré et pourra être consulté par le pirate. Il s'agit d'une technique cachée permettant à un attaquant de pirater un comptes Facebook. Par exemple, si un attaquant a d'une manière ou d'une autre piraté votre ordinateur portable et installé un logiciel d'enregistrement de frappe, tout ce que vous tapez sera enregistré pour l'attaquant. Non seulement vos informations d'identification Facebook seraient enregistrées, mais également vos informations d'identification bancaires, vos comptes de messagerie et tous les autres comptes que vous possédez. 
 
 ### Comment se protéger contre les enregistreurs de frappe à distance
 N'utilisez pas d'applications de clavier tierces 
